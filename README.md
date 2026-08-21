@@ -92,10 +92,12 @@ This repository will be updated as I solve more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 ## Math
