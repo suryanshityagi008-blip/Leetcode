@@ -161,4 +161,12 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
