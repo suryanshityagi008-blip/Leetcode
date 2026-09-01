@@ -98,6 +98,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
@@ -109,6 +110,7 @@ This repository will be updated as I solve more problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
@@ -152,6 +154,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
