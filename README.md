@@ -114,6 +114,7 @@ This repository will be updated as I solve more problems.
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
