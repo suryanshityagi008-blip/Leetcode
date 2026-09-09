@@ -166,6 +166,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +187,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
