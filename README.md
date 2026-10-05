@@ -119,6 +119,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,4 +192,9 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0155-min-stack) |
+| [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
