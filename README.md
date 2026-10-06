@@ -93,6 +93,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -112,6 +113,7 @@ This repository will be updated as I solve more problems.
 | [0009-palindrome-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0507-perfect-number) |
@@ -159,6 +161,7 @@ This repository will be updated as I solve more problems.
 | [0001-two-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,4 +200,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
