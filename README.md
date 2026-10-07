@@ -114,12 +114,14 @@ This repository will be updated as I solve more problems.
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
 ## Binary Search
@@ -204,4 +206,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
