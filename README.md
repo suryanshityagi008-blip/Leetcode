@@ -103,6 +103,7 @@ This repository will be updated as I solve more problems.
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0709-to-lower-case) |
@@ -164,6 +165,7 @@ This repository will be updated as I solve more problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,4 +212,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
