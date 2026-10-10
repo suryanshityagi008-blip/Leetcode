@@ -92,6 +92,7 @@ This repository will be updated as I solve more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
@@ -99,6 +100,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0058-length-of-last-word) |
@@ -190,6 +192,7 @@ This repository will be updated as I solve more problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -216,4 +219,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
